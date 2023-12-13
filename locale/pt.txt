@@ -1,0 +1,31 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_1871CFBE_03BD_7373_4122_441C6E9FEFB8.toolTip = Suíte
+
+## Media
+
+### Audio
+audiores_1F63953E_034D_7773_4178_309776DC9480.mp3Url = media/audio_1F71B851_034B_FD31_4150_1CCA1C660DB5_pt.mp3
+audiores_1F7C73F1_034D_72F1_418A_0DDC50D892F2.mp3Url = media/audio_1FC0E20A_0355_AD13_4141_C50F5C87AB6C_pt.mp3
+
+### Title
+panorama_1EA174E5_034D_9511_417F_E784E16A1CB5.label = banheiro
+panorama_18109E9E_03BB_F533_417A_19869A1B6A5E.label = cozinha
+video_1D603397_03B5_B331_4173_370B4730562E.label = naufragio
+panorama_18080B60_03B5_930F_4182_71269CA8E1F2.label = quarto cópia
+
+### Video
+videolevel_7D817E0E_6361_DC13_41C6_718C355EAAEA.posterURL = media/video_1D603397_03B5_B331_4173_370B4730562E_poster_pt.jpg
+videolevel_7D817E0E_6361_DC13_41C6_718C355EAAEA.url = media/video_1D603397_03B5_B331_4173_370B4730562E_pt.mp4
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Noel
